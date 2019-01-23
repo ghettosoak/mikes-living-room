@@ -1,0 +1,18 @@
+{
+  "name": "neeo-driver-vlc",
+  "version": "0.1.0",
+  "description": "",
+  "repository": "",
+  "main": "index.js",
+  "private": false,
+  "dependencies": {
+    "applescript": "^1.0.0",
+    "neeo-sdk": "*"
+  },
+  "keywords": [
+    "neeo",
+    "neeo-driver"
+  ],
+  "author": "NEEO Inc",
+  "license": "MIT"
+}
