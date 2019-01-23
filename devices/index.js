@@ -1,6 +1,6 @@
 'use strict';
 
-const vlc = require('../lib/vlc')
+const vlc = require('../lib/vlc');
 
 module.exports = {
   devices: [
