@@ -6,7 +6,7 @@
   "main": "index.js",
   "private": false,
   "dependencies": {
-    "axios": "^0.18.0",
+    "applescript": "^1.0.0",
     "neeo-sdk": "*"
   },
   "keywords": [
