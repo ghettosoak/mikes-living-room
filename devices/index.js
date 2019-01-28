@@ -8,8 +8,8 @@ const youtubeViaChrome = require('../lib/youtubeViaChrome');
 module.exports = {
   devices: [
     ...vlc.devices,
-    ...vlc.OSXsystem,
-    ...vlc.OSXitunes,
-    ...vlc.youtubeViaChrome,
+    ...OSXsystem.devices,
+    ...OSXitunes.devices,
+    ...youtubeViaChrome.devices,
   ],
 };
