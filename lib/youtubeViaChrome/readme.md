@@ -14,7 +14,7 @@ This is a driver for the NEEO SDK to control YouTube with your NEEO Remote. It a
 * Run `npm install` in this folder
 * Run `npm start` from the root of your SDK
 
-## I don't use Chrome.
+## I don't use Chrome
 You can change the applescript call in lib/controller.js and index.js to reflect your browser of choice. For example, Firefox would look like this:
 `applescript.execString('tell application "Firefox" to activate')`
  
