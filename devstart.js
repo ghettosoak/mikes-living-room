@@ -2,8 +2,9 @@
 
 const neeoapi = require("neeo-sdk");
 const VLCdriver = require("./lib/vlc").devices[0];
-const screenSaverDriver = require("./lib/screensaver").devices[0];
-const chromeYoutubeDriver = require("./lib/chromeYoutube").devices[0];
+const OSXsystemDriver = require("./lib/OSXsystem").devices[0];
+const OSXitunesDriver = require("./lib/OSXitunes").devices[0];
+const youtubeViaChromeDriver = require("./lib/youtubeViaChrome").devices[0];
 
 // IP of your NEEO Brain
 const BRAIN_IP = '192.168.0.101';
@@ -15,8 +16,9 @@ neeoapi
     name: 'debug-server',
     devices: [
       VLCdriver,
-      screenSaverDriver,
-      chromeYoutubeDriver
+      OSXsystemDriver,
+      OSXitunesDriver,
+      youtubeViaChromeDriver
     ]
   })
   .then(() => console.log('Server Ready'))
