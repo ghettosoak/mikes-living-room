@@ -19,5 +19,5 @@ The NEEO controlpad maps as follows:
 * left / right: previous / next track
 * ok: play / pause
 
-All other functions can be found in the 'shortcuts' menu. They are:
-* SWITCH TO ITUNES
+All other functions can be found in the 'shortcuts' menu. I've mapped them to color functions. They are:
+* FUNCTION BLUE: SWITCH TO ITUNES

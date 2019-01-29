@@ -1,8 +1,8 @@
 {
-  "name": "neeo-sdk-examples",
-  "version": "0.51.13",
-  "description": "NEEO Brain SDK Examples",
-  "repository": "https://github.com/NEEOInc/neeo-sdk-examples",
+  "name": "mikes-living-room",
+  "version": "0.0.1",
+  "description": "NEEO Brain SDK drivers for Mike's living room",
+  "repository": "https://github.com/ghettosoak/mikes-living-room",
   "license": "MIT",
   "private": false,
   "dependencies": {

@@ -24,12 +24,12 @@ The NEEO controlpad maps as follows:
 * left / right: scrub forward / backwards 5sec
 * ok: play / pause
 
-All other functions can be found in the 'shortcuts' menu. They are:
-* FULLSCREEN
-* SWITCH TO CHROME
-* CLOSE TAB
-* (switch to) TAB LEFT
-* (switch to) TAB RIGHT
-* STOP AUTOPLAY
-* RESTART VIDEO
-* NEXT VIDEO (next in playlist, or 'up next')
+All other functions can be found in the 'shortcuts' menu. I've mapped them to color functions. They are:
+* FUNCTION BLACK:     FULLSCREEN
+* FUNCTION YELLOW:    SWITCH TO CHROME
+* FUNCTION RED:       CLOSE TAB
+* FUNCTION GREEN:     (switch to) TAB LEFT
+* FUNCTION PURPLE:    (switch to) TAB RIGHT
+* FUNCTION PINK:      STOP AUTOPLAY
+* FUNCTION MAGENTA:   RESTART VIDEO
+* FUNCTION TURQUOISE: NEXT VIDEO (next in playlist, or 'up next')

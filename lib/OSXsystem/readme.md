@@ -14,7 +14,7 @@ This is a driver for the NEEO SDK to control your OSX computer with your NEEO Re
 
  
 ## Buttons && Functions
-All functions can be found in the 'shortcuts' menu. They are:
-* START SCREENSAVER
-* STOP SCREENSAVER
-* SYSTEM SHUTDOWN (this also kills VLC, it sometimes hangs for me)
+All functions can be found in the 'shortcuts' menu. I've mapped them to color functions. They are:
+* FUNCTION BLUE:  START SCREENSAVER
+* FUNCTION RED:   STOP SCREENSAVER
+* FUNCTION GREEN: SYSTEM SHUTDOWN (this also kills VLC, it sometimes hangs for me)

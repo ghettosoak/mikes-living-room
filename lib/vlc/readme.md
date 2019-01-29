@@ -20,7 +20,7 @@ The NEEO controlpad maps as follows:
 * up / ok: play / pause
 * down: stop
 
-All other functions can be found in the 'shortcuts' menu. They are:
-* TOGGLE FULLSCREEN
-* SWITCH TO VLC
-* TURN OFF SUBTITLES
+All other functions can be found in the 'shortcuts' menu. I've mapped them to color functions. They are:
+* FUNCTION BLUE:   TOGGLE FULLSCREEN
+* FUNCTION YELLOW: SWITCH TO VLC
+* FUNCTION RED:    TURN OFF SUBTITLES
