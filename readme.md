@@ -30,4 +30,4 @@ Check out the `lib` folder. There are:
 * [An OSX system controller](https://github.com/ghettosoak/mikes-living-room/tree/master/lib/OSXsystem)
 
 ## Further Functionality
-If you have any other functionality, let me know 
+If you have any other functionality, let me know at (e@ject.ch)[mailto:e@ject.ch].
